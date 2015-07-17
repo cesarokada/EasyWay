@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyWay</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="endorigem">Endereço de Origem</string>
+    <string name="enddestino">Endereço de Destino</string>
+    <string name="calcular">Calcular Taxa</string>
+    <string name="textotaxa">Taxa de Entrega:</string>
+</resources>
